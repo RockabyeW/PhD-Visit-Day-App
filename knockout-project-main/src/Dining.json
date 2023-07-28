@@ -1,0 +1,25 @@
+{
+    "Morrison Dining": {
+        "name": "Morrison Dining",
+        "img": "morrison.jpg",
+        "about":"Choose your own culinary adventure, from the Mediterranean-inspired veggie bowls and made-from-scratch pasta to the build-your-own waffle bar, plus brand-new certified kosher and halal stations.",
+        "hours": "8:00 AM - 8:00 PM",
+        "location": "Toni Morrison Hall, North Campus"
+    },
+
+    "Mattin's Café": {
+        "name": "Mattin's Café",
+        "img": "mattin.jpg",
+        "about":"You will find Mattin's Café in the atrium of Duffield Hall, adjacent to Phillips Hall on the Engineering Quad. Enjoy made-to-order deli sandwiches, boneless wings, hot Starbucks coffee, Freshtake Grab-n-Go items, soups, kosher items, mouth-watering pastries and more.",
+        "hours": "8:00 AM - 5:00 PM",
+        "location": "Duffield Hall, Central Campus"
+    },
+
+    "Cornell Dairy Bar": {
+        "name": "Cornell Dairy Bar",
+        "img": "dairy.jpg",
+        "about":"In the beautifully renovated Stocking Hall on the east end of Tower Road, the Cornell Dairy Bar is a great place for breakfast, coffee, or even sweet treat like Cornell ice cream, sundaes and floats. Regular hours vary seasonally, so please check the specific hours on this page for updates.",
+        "hours": "8:00 AM - 6:00 PM",
+        "location": "Stocking Hall, Central Campus"
+  }
+}

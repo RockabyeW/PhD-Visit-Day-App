@@ -1,0 +1,33 @@
+{
+  "prof":
+  {
+    "A":
+    {
+      "name": "Jeff",
+      "field": "Machine Learning",
+      "time": {"first":"13,18","second": "8,12", "third": "8,10"}
+    },
+    "B":
+    {
+        "name": "Jeff",
+        "field": "Machine Learning",
+        "time": {"first":"13,18","second": "8,12", "third": "8,10"}
+    }
+  },
+
+  "lab":
+  {
+    "A":
+    {
+      "name": "Machine Learning",
+      "field": "Machine Learning",
+      "time": {"first":"13,18","second": "8,12", "third": "8,10"}
+    },
+    "B":
+    {
+        "name": "Jeff",
+        "field": "Machine Learning",
+        "time": {"first":"13,18","second": "8,12", "third": "8,10"}
+    }
+  }
+}

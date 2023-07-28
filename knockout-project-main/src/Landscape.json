@@ -1,0 +1,25 @@
+{
+    "Botanic Gardens": {
+        "name": "Botanic Gardens",
+        "img": "garden.jpg",
+        "about":"Cornell Botanic Gardens is a 4,300-acre botanical garden, showcasing a diverse collection of plants from around the world. It serves as an educational and research center for plant conservation and sustainable gardening practices.",
+        "hours": "9:00 AM - 6:00 PM",
+        "location": "124 Comstock Knoll Dr, Ithaca"
+    },
+
+    "Buttermilk Falls State Park": {
+        "name": "Buttermilk Falls State Park",
+        "img": "fall.jpg",
+        "about":"The park features a stunning natural pool at the base of a cascading waterfall, which visitors can swim in during the summer months. The park also offers hiking trails through the gorge, picnic areas, and a campground for overnight stays.",
+        "hours": "8:00 AM - 7:00 PM",
+        "location": "106 E Buttermilk Falls Rd, Ithaca"
+    },
+
+    "Herbert F. Johnson Museum of Art": {
+        "name": "Herbert F. Johnson Museum of Art",
+        "img": "museum.jpg",
+        "about":"The museum showcases a diverse collection of over 35,000 works of art from around the world, including ancient and modern art, photography, and prints. The museum's architecture, designed by I.M. Pei, is a work of art in itself.",
+        "hours": "10:00 AM - 5:00 PM",
+        "location": "114 Central Ave, Ithaca"
+  }
+}

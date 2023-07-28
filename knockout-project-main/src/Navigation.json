@@ -1,0 +1,23 @@
+{
+    "event1": {
+        "name":"Kyle Harms",
+        "time":"9:00 AM - 10:00 AM",
+        "location":"Rhodes Hall 423",
+        "nav":"https://www.google.com/maps/dir/Sage+Hall,+114+E+Ave,+Ithaca,+NY+14853/Rhodes+Hall,+Hoy+Road,+Ithaca,+NY/@42.44471,-76.4848597,16.98z/data=!4m13!4m12!1m5!1m1!1s0x89d0818b96c366a5:0x3c1643570ccdc4f8!2m2!1d-76.4833009!2d42.4458918!1m5!1m1!1s0x89d0818cf2809033:0x5cb96224c6fa9279!2m2!1d-76.4814183!2d42.4435133"
+
+    },
+
+    "event2": {
+        "name":"Matin's Cafe",
+        "time":"12:00 AM - 1:00 PM",
+        "location":"Gates Hall L12",
+        "nav":"https://www.google.com/maps/dir/Rhodes+Hall,+Hoy+Road,+Ithaca,+NY/Bill+and+Melinda+Gates+Hall,+Campus+Road,+Ithaca,+NY/@42.4443812,-76.483778,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89d0818cf2809033:0x5cb96224c6fa9279!2m2!1d-76.4814183!2d42.4435133!1m5!1m1!1s0x89d0818b5e28d461:0xe842d068f045d7a4!2m2!1d-76.4808143!2d42.4448765"
+    },
+
+    "event3": {
+        "name":"Bovay Lab",
+        "time":"2:00 PM - 5:00 PM",
+        "location":"Morrison Hall 231",
+        "nav":"https://www.google.com/maps/dir/Rhodes+Hall,+Hoy+Road,+Ithaca,+NY/Bill+and+Melinda+Gates+Hall,+Campus+Road,+Ithaca,+NY/@42.4443812,-76.483778,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89d0818cf2809033:0x5cb96224c6fa9279!2m2!1d-76.4814183!2d42.4435133!1m5!1m1!1s0x89d0818b5e28d461:0xe842d068f045d7a4!2m2!1d-76.4808143!2d42.4448765"
+  }
+}

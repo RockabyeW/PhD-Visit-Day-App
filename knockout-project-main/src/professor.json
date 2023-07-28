@@ -1,0 +1,44 @@
+{
+  "Kyle Harms": {
+    "name": "Kyle Harms",
+    "hours": {
+        "Day1":"9:00 AM - 10:00 AM,11:00 AM - 12:00 PM,6:00 PM - 7:00 PM",
+        "Day2":"8:00 AM - 9:00 AM,4:00 PM - 5:00 PM",
+        "Day3":"5:00 PM - 6:00 PM"
+    },
+    "duration": 1,
+    "location": "224 Gates Hall",
+    "img": "kyle-harms.jpeg",
+    "focus": "HCI, Computing Education",
+    "email": "kyle.harms@cornell.edu",
+    "about":"At Washington University in St. Louis, Kyle pursued his interest in HCI and computing education as a member of the Looking Glass Research Group. His research focused on leveraging learning theories to improve novices' ability to learning computer programming independently. "
+  },
+  "Chris Csíkszentmihályi": {
+    "name": "Chris Csíkszentmihályi",
+    "hours": {
+      "Day1":"11:00 AM - 12:00 AM,6:00 PM - 7:00 PM",
+      "Day2":"9:00 AM - 10:00 AM,3:00 PM - 4:00 PM",
+      "Day3":"6:00 PM - 7:00 PM"
+  },
+  "duration": 1,
+  "location": "206 Gates Hall",
+  "img": "chris-csik.png",
+    "focus": "Information for Accountability, Social & Environmental Justice, and Activism",
+    "email": "(607)-255-2978",
+    "about":"Csíkszentmihályi has been notably founding and directing the MIT Center for Future Civic Media (C4), dedicated to developing technologies that strengthen communities, and also the MIT Media Lab's Computing Culture group, creating unique media technologies for cultural and political applications."
+  },
+  "Gilly Leshed": {
+    "name": "Gilly Leshed",
+    "hours": {
+      "Day1":"10:00 AM - 11:00 AM,2:00 PM - 3:00 PM",
+      "Day2":"9:00 AM - 10:00 AM,1:00 PM - 2:00 PM",
+      "Day3":"1:00 PM - 2:00 PM"
+  },
+  "duration": 1,
+  "location": "110G Gates Hall",
+  "img": "gilly-leshed.jpg",
+    "focus": "Human computer interaction, Computer-Supported Cooperative Work",
+    "email": "gl87@cornell.edu",
+    "about":"Dr. Leshed received her PhD at Cornell in Information Science in 2009. She also worked several years in the industry as an HCI expert for commercial flight-deck avionics system and command and control systems for military purposes."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Reid Lab": {
+    "name": "Reid Lab",
+    "hours": {
+        "Day1":"3:00 PM - 5:00 PM",
+        "Day2":"8:00 AM - 10:00 AM,4:00 PM - 6:00 PM",
+        "Day3":"5:00 PM - 7:00 PM"
+    },
+    "duration": 2,
+    "location": "Rhodes 143",
+    "img": "reid-lab.jpeg",
+    "about":"Ecological Engineering Laboratory is focused on harnessing natural processes in the landscape to eliminate contaminants from water and soil, and ensure the quality of these resources for societal needs and ecosystem health."
+
+  },
+  "Bovay Lab": {
+    "name": "Bovay Lab",
+    "hours": {
+      "Day1":"2:00 PM - 5:00 PM",
+      "Day2":"8:00 AM - 11:00 AM,4:00 PM - 7:00 PM",
+      "Day3":"9:00 AM - 12:00 AM"
+
+  },
+    "duration": 3,
+    "location": "Philips 305",
+    "img": "bovay.jpeg",
+    "about":"In the Bovay Lab, CEE students receive hands-on experience, observing what large forces and displacements can do to soil, concrete, steel, and other fabricated materials and structures."
+  },
+  "McLaskey Lab": {
+    "name": "McLaskey Lab",
+    "hours": {
+      "Day1":"9:00 AM - 12:00 AM,1:00 PM - 4:00 PM",
+      "Day2":"8:00 AM - 11:00 AM,1:00 PM - 4:00 PM",
+      "Day3":"3:00 PM - 6:00 PM"
+  },
+  "duration": 3,
+  "location": "Upson 253",
+  "img": "mclaskey.jpeg",
+    "about":"Our research uses the analysis of waves in order to study material behavior such as earthquakes, faulting, friction, impact, and fracture."
+  }
+}

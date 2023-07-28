@@ -1,0 +1,136 @@
+{
+  "Day1":{
+    "event1": {
+        "type": "Dining",
+        "name": "Breakfast",
+        "hours": "9:00 AM - 10:00 AM",
+        "day":"1",
+        "duration": "1",
+        "location": "Bowtie Space",
+        "itinenary": true
+      },
+
+      "event2": {
+        "name": "Faculty 1:1",
+        "type": "Professor",
+        "hours": "11:00 AM - 12:00 AM",
+        "day":"1",
+        "duration": "1",
+        "location": "Tata 123",
+        "itinenary": true
+      },
+      "event3": {
+        "name": "Lunch",
+        "hours": "1:00 PM - 2:00 PM",
+        "type": "Dining",
+        "day":"1",
+        "duration": "1",
+        "location": "Bowtie Space",
+        "itinenary": true
+      },
+      "event4": {
+        "name": "Faculty 1:1",
+        "hours": "3:00 PM - 4:00 PM",
+        "type": "Professor",
+        "day":"1",
+        "duration": "1",
+        "location": "Tata 123",
+        "itinenary": true
+      }
+},
+"Day2":{
+  "event1": {
+      "type": "Dining",
+      "name": "Breakfast",
+      "hours": "8:00 AM - 9:00 AM",
+      "day":"2",
+      "duration": "1",
+      "location": "Starler Ballroom",
+      "itinenary": true
+    },
+    "event2": {
+      "name": "Lab Tours",
+      "hours": "10:00 AM - 11:00 AM",
+      "type": "Lab",
+      "day":"2",
+      "duration": "1",
+      "location": "Tata 123",
+      "itinenary": true
+    },
+    "event3": {
+      "name": "Faculty",
+      "hours": "11:00 AM - 12:00 AM",
+      "type": "Professor",
+      "day":"2",
+      "duration": "1",
+      "location": "Tata 123",
+      "itinenary": true
+    },
+    "event4": {
+      "name": "Boxed Lunch",
+      "type": "Dining",
+      "hours": "1:00 PM - 2:00 PM",
+      "day":"2",
+      "duration": "1",
+      "location": "Gates 310",
+      "itinenary": true
+    },
+    "event5": {
+      "name": "Faculty",
+      "type": "Professor",
+      "hours": "4:00 PM - 6:00 PM",
+      "day":"2",
+      "duration": "2",
+      "location": "Tata 123",
+      "itinenary": true
+    }
+},
+"Day3":{
+  "event1": {
+    "type": "Dining",
+    "name": "Breakfast",
+    "hours": "8:00 AM - 9:00 AM",
+    "day":"3",
+    "duration": "1",
+    "location": "Starler Ballroom",
+    "itinenary": true
+  },
+  "event2": {
+    "name": "Lab Tours",
+    "hours": "10:00 AM - 12:00 AM",
+    "type": "Lab",
+    "day":"3",
+    "duration": "2",
+    "location": "114 Central Ave, Ithaca",
+    "itinenary": true
+  },
+  "event3": {
+    "name": "Boxed Lunch",
+    "type": "Dining",
+    "hours": "1:00 PM - 2:00 PM",
+    "day":"3",
+    "duration": "1",
+    "location": "Gates 310",
+    "itinenary": true
+  },
+  "event4": {
+    "name": "Faculty",
+    "type": "Professor",
+    "hours": "3:00 PM - 5:00 PM",
+    "day":"3",
+    "duration": "2",
+    "location": "Tata 123",
+    "itinenary": true
+  },
+  "event5": {
+    "name": "Reception Dinner",
+    "type": "Dining",
+    "hours": "6:00 PM - 8:00 PM",
+    "day":"3",
+    "duration": "2",
+    "location": "Bloomberg Master's Studio",
+    "itinenary": true
+  }
+}
+
+}
